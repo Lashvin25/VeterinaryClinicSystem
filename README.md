@@ -21,3 +21,16 @@ This project is an Enterprise Programming Distributed Application (EPDA) develop
 - **MySQL**: Used as the relational database to store information about appointments, customers, pets, and staff.
 - **AngularJS (Client-side MVC)**: Used to create responsive and interactive web applications.
 - **Zend Framework (Server-side MVC)**: Provides flexibility in backend development and integrates with various database systems.
+
+
+<br>
+
+<img src="https://github.com/user-attachments/assets/f556666a-ce22-443c-b9ee-c9a1c2f9d050" width="350"></img>
+<img src="https://github.com/user-attachments/assets/2850582e-1d6b-479f-8c42-99a4e9072ea1" width="350"></img>
+<img src="https://github.com/user-attachments/assets/00eaa084-5b87-48c7-aa3d-f51f27bfbe25" width="350"></img>
+<img src="https://github.com/user-attachments/assets/bce33acd-daa0-47ed-859e-29fe4933cd76" width="350"></img>
+<img src="https://github.com/user-attachments/assets/2bb0f5ce-3c39-4d49-a052-6809fb05e3a8" width="350"></img>
+<img src="https://github.com/user-attachments/assets/0e36f78a-d803-4c63-90a8-da7f9a05fc40" width="350"></img>
+<img src="https://github.com/user-attachments/assets/265d3063-440b-47b0-a75d-753c5ef2f2c5" width="350"></img>
+
+<br>
